@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a230f243-d2bf-4f08-abd7-abb70c543f05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interfaces.iml" afterDir="false" />
+    <list default="true" id="a230f243-d2bf-4f08-abd7-abb70c543f05" name="Changes" comment="Inicio Interfaces">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/ufrn/imd/MiltonNascimento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/ufrn/imd/MiltonNascimento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/ufrn/imd/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/ufrn/imd/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -82,8 +79,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653495201853</updated>
-      <workItem from="1653495204978" duration="485000" />
+      <workItem from="1653495204978" duration="2237000" />
     </task>
+    <task id="LOCAL-00001" summary="Inicio Interfaces">
+      <created>1653495749399</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653495749399</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,5 +104,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Inicio Interfaces" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inicio Interfaces" />
   </component>
 </project>
